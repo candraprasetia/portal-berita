@@ -1,0 +1,3 @@
+Panel admin : localhost/4MEDIAONLINEV2/administrator
+username: admin
+password: admin123
